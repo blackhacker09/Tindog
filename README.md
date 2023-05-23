@@ -1,6 +1,6 @@
 # TinDog 
 
-# Live @ Github : https://blackhacker09.github.io/Tindog/
+* It is a website for dogs to find partners through potential owners. An idea similar to Tinder but for our lovely dogs .Woof Woof !!
 
 * A tinder website made exclusively for Dogs.
 
